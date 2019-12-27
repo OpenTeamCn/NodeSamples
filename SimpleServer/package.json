@@ -7,12 +7,12 @@
     "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
   },
   "dependencies": {
-	  "formidable": "1.0.14"
-		  },
+    "formidable": "^1.2.1"
+  },
   "repository": {
-	  "type": "git",
-	  "url": "https://github.com/felixge/node-formidable.git"
-		  },
+    "type": "git",
+    "url": "https://github.com/felixge/node-formidable.git"
+  },
   "keywords": [
     "Node.js",
     "Eclipse",
